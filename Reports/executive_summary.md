@@ -6,9 +6,9 @@ This project analyzes retail sales transaction data (9,994 orders) to identify k
 ## Key Findings
 
 **Category Performance**
-- Technology leads in both sales (~$836K) and profit (~$145K).
-- Furniture generates strong sales (~$742K) but disproportionately low profit (~$18K) — a significant margin issue.
-- Office Supplies delivers solid profit (~$122K) relative to its sales (~$719K).
+- Technology leads in both sales (approx. $836K) and profit (approx. $145K).
+- Furniture generates strong sales (approx. $742K) but disproportionately low profit (approx. $18K) — a significant margin issue.
+- Office Supplies delivers solid profit (approx. $122K) relative to its sales (approx. $719K).
 
 **Sub-Category Risk**
 - Certain sub-categories (notably Tables and Bookcases) operate at a net loss, driven by heavy discounting.
