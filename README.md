@@ -1,4 +1,4 @@
-# Retail Sales & Profitability Analysis
+# Retail Sales & Profitability Analysis Dashboard
 
 A data analytics project analyzing retail transaction data to uncover sales trends, profitability drivers, and actionable business recommendations.
 
